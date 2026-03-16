@@ -26,3 +26,6 @@ Reneo Studio merupakan studio fotografi yang menyediakan berbagai layanan fotogr
 ## Cara Menjalankan Project
 
 1. Clone repository ini
+   ```
+   https://github.com/FarisArr/reneostudio.git
+   ```
